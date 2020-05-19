@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="408e60c9-e0fc-499f-ab4b-071439ddbc02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="applicationContext" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c7EtveZp9N1TY5ryNfh9S4XKKi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\app-mybatis\src\main\resources" />
+      <recent name="D:\IdeaProjects\app-mybatis\src\main\java\com\jbit\mapper" />
+      <recent name="D:\IdeaProjects\app-mybatis\src\main\java\com\jbit\entity" />
+      <recent name="D:\IdeaProjects\app-mybatis\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jbit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jbit" />
+      <option name="MAIN_CLASS_NAME" value="com.jbit.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="408e60c9-e0fc-499f-ab4b-071439ddbc02" name="Default Changelist" comment="" />
+      <created>1589871454775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589871454775</updated>
+      <workItem from="1589871473336" duration="6020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="50" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589877678478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="305" y="50" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.738@0.0.1366.738" timestamp="1589877678478" />
+    <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1589878130819">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589878130819" />
+    <state width="1323" height="325" key="GridCell.Tab.0.bottom" timestamp="1589877648982">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589877648982" />
+    <state width="1323" height="325" key="GridCell.Tab.0.center" timestamp="1589877648982">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589877648982" />
+    <state width="1323" height="325" key="GridCell.Tab.0.left" timestamp="1589877648981">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589877648981" />
+    <state width="1323" height="325" key="GridCell.Tab.0.right" timestamp="1589877648982">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589877648982" />
+    <state x="213" y="27" key="Maven.ArtifactSearchDialog" timestamp="1589873792875">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="27" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1589873792875" />
+    <state x="375" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1589871495561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="375" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1589871495561" />
+    <state x="363" y="61" key="spring file set editor" timestamp="1589874050150">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="61" key="spring file set editor/0.0.1366.738@0.0.1366.738" timestamp="1589874050150" />
+  </component>
+</project>
